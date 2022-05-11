@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://leanclass.github.io/posts/1345/</loc>
+        <lastmod>2022-05-11T01:56:55.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/posts/55781/</loc>
+        <lastmod>2022-05-10T07:00:32.739Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/posts/57409/</loc>
+        <lastmod>2022-05-09T05:56:25.180Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://leanclass.github.io/posts/48608/</loc>
         <lastmod>2022-05-07T08:58:25.843Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -43,14 +67,6 @@
     <url>
         <loc>https://leanclass.github.io/posts/5792/</loc>
         <lastmod>2022-05-07T08:57:43.533Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/posts/57409/</loc>
-        <lastmod>2022-05-07T08:57:33.041Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -819,14 +835,6 @@
     <url>
         <loc>https://leanclass.github.io/posts/42349/</loc>
         <lastmod>2022-04-01T08:02:22.123Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/posts/4221/</loc>
-        <lastmod>2022-04-01T08:01:54.275Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
