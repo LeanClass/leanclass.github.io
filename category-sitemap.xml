@@ -9,8 +9,29 @@
 
 
     <url>
+        <loc>https://leanclass.github.io/categories/Chinese-Poems/</loc>
+        <lastmod>2022-05-24T00:38:01.237Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/categories/Biography/</loc>
+        <lastmod>2022-05-20T08:50:01.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://leanclass.github.io/categories/PMP/</loc>
-        <lastmod>2022-05-19T07:01:29.287Z</lastmod>
+        <lastmod>2022-05-20T06:17:14.165Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/categories/Encyclopedia-of-China/</loc>
+        <lastmod>2022-05-20T05:51:49.970Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -18,20 +39,6 @@
     <url>
         <loc>https://leanclass.github.io/categories/China/</loc>
         <lastmod>2022-05-19T06:44:45.647Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/categories/Chinese-Poems/</loc>
-        <lastmod>2022-05-13T00:58:43.017Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/categories/Encyclopedia-of-China/</loc>
-        <lastmod>2022-05-12T09:28:37.502Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -46,13 +53,6 @@
     <url>
         <loc>https://leanclass.github.io/categories/Sinology/</loc>
         <lastmod>2022-05-12T01:16:50.165Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/categories/Biography/</loc>
-        <lastmod>2022-05-06T01:17:39.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
