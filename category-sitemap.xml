@@ -10,7 +10,7 @@
 
     <url>
         <loc>https://leanclass.github.io/categories/Chinese-Poems/</loc>
-        <lastmod>2022-06-02T09:31:26.513Z</lastmod>
+        <lastmod>2022-06-08T09:07:34.876Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -37,20 +37,6 @@
     </url>
 
     <url>
-        <loc>https://leanclass.github.io/categories/PMP/</loc>
-        <lastmod>2022-05-20T06:17:14.165Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/categories/Encyclopedia-of-China/</loc>
-        <lastmod>2022-05-20T05:51:49.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://leanclass.github.io/categories/China/</loc>
         <lastmod>2022-05-19T06:44:45.647Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,6 +53,13 @@
     <url>
         <loc>https://leanclass.github.io/categories/Sinology/</loc>
         <lastmod>2022-05-12T01:16:50.165Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/categories/Encyclopedia-of-China/</loc>
+        <lastmod>2022-05-12T01:15:41.338Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
