@@ -10,7 +10,14 @@
 
     <url>
         <loc>https://leanclass.github.io/categories/Chinese-Poems/</loc>
-        <lastmod>2022-06-08T09:07:34.876Z</lastmod>
+        <lastmod>2022-06-10T02:38:50.037Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/categories/Biography/</loc>
+        <lastmod>2022-06-10T02:34:06.164Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -25,13 +32,6 @@
     <url>
         <loc>https://leanclass.github.io/categories/Chinese-Poet/</loc>
         <lastmod>2022-06-01T02:49:22.313Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/categories/Biography/</loc>
-        <lastmod>2022-05-20T08:50:01.511Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
