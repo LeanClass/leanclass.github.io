@@ -3,15 +3,29 @@
 
 
     <url>
-        <loc>https://leanclass.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
-        <lastmod>2022-06-14T00:54:47.800Z</lastmod>
+        <loc>https://leanclass.github.io/tags/%E7%A6%BB%E9%AA%9A/</loc>
+        <lastmod>2022-06-17T09:33:16.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://leanclass.github.io/tags/%E8%AF%97%E8%AF%8D/</loc>
-        <lastmod>2022-06-10T02:38:50.037Z</lastmod>
+        <lastmod>2022-06-17T08:24:43.975Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%AF%97%E8%AF%8D/</loc>
+        <lastmod>2022-06-14T06:00:29.412Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://leanclass.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
+        <lastmod>2022-06-14T00:54:47.800Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -159,13 +173,6 @@
     <url>
         <loc>https://leanclass.github.io/tags/%E4%B8%AD%E5%B0%8F%E5%AD%A6/</loc>
         <lastmod>2022-04-11T04:08:38.487Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://leanclass.github.io/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%AF%97%E8%AF%8D/</loc>
-        <lastmod>2022-04-07T01:27:50.432Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
